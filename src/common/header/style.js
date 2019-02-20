@@ -14,9 +14,7 @@ position: relative;
     margin: 0 auto;
 `;
 
-export const Logo = styled.a.attrs({
-    href: '/'
-})`
+export const Logo = styled.div`
     position: absolute;
     top: 0;
     left: 0;
@@ -45,8 +43,9 @@ export const NavItem = styled.div`
         float: right;
         color: #969696;
     }
-    &.login {
+    &.login, &.logout {
         font-size: 15px;
+        cursor: pointer;
     }
     &.active {
         color: #ea6f5a;
@@ -58,7 +57,7 @@ export const NavSearchWrapper = styled.div`
     margin-left: 20px;
     position: relative;
     float: left;
-    .iconfont {
+    .zoom {
         position: absolute;
         right: 13px;
         top: 13px;
@@ -115,6 +114,7 @@ export const SearchInfo = styled.div`
     width: 240px;
     padding: 0 20px;
     box-shadow: 0 0 8px rgba(0,0,0,.2);
+    background: #fff;
 `;
 
 export const SearchInfoTitle = styled.div`
@@ -128,6 +128,15 @@ export const SearchInfoTitle = styled.div`
 export const SearchInfoSwitch = styled.div`
     float: right;
     font-size: 13px;
+    cursor: pointer;
+    .spin {
+        display: block; /* 对于block元素transform才生效 */
+        float: left;
+        color: #969696;
+        margin-right: 2px;
+        transition: all .2s ease-in;
+        transform-origin: center center;
+    }
 `;
 
 export const SearchInfoList = styled.div`

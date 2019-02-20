@@ -1,0 +1,83 @@
+{
+    "code": 0,
+    "data": {
+        "articleList": [{
+            "id": 1,
+            "title": "为何现代多数青年都处于“自杀式单身”",
+            "desc": "最近网上流行一个词：自杀式单身。形容一直单身又不主动扩展社交范围去认识新朋友，却每天幻想着能拥有爱情的行为。这不正是现代大多数年轻人的写照了吗。...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/16124920-73f7ad6aa52b78e1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },{
+            "id": 2,
+            "title": "那些年网易云直戳泪点的评论(42) - 梦里梦到的人，是醒来见不到的人",
+            "desc": "《天亮以后说再见》 ☞有些相遇 连自己都不知道是该唏嘘 还是感谢 ☞ 频频回头的人注定走不了远路. ☞在微博上看到过这样一段话，“我以前，我也以...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/7715567-dca46535c89691c6.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },{
+            "id": 3,
+            "title": "我终于关闭了朋友圈",
+            "desc": "今天，我把微信朋友圈关闭了，也不再打算打开了。我不再发朋友圈，也对别人的朋友圈不感兴趣。 我并不是赌气这样做的。我不愿再发朋友圈，是因为朋友圈中...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/14719293-1fc70d05bffebfb7.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },{
+            "id": 4,
+            "title": "好吧，你这个渣女",
+            "desc": "她本人就是渣女。 神级人渣。 18岁，00年的辍学3年现在是陪酒女。 谈过三个男朋友跟很多有钱的老板客人暧味过从来没有真情实感过哪怕一瞬间。 绿...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/2535252-a4ee3e7c573fc861?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        }],
+        "recommendList": [{
+            "id": 1,
+            "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+        },{
+            "id": 2,
+            "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+        },{
+            "id": 3,
+            "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+        },{
+            "id": 4,
+            "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+        },{
+            "id": 5,
+            "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+        }],
+        "writerList": [{
+            "id": 13213889,
+            "slug": "080bb4eac1c9",
+            "nickname": "无限猴子",
+            "avatar_source": "http://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg",
+            "total_likes_count": 850,
+            "total_wordage": 202507,
+            "is_following_user": false
+        }, {
+            "id": 3292545,
+            "slug": "c4165d16d0ad",
+            "nickname": "北美之北",
+            "avatar_source": "http://upload.jianshu.io/users/upload_avatars/3292545/78f2855a-80fd-419a-9fb2-1aeed39690f0.png",
+            "total_likes_count": 13564,
+            "total_wordage": 407226,
+            "is_following_user": false
+        }, {
+            "id": 3627484,
+            "slug": "c5580cc1c3f4",
+            "nickname": "简书大学堂",
+            "avatar_source": "http://upload.jianshu.io/users/upload_avatars/3627484/eb973bb9-37ba-4d07-acec-850c0a66d1bb.png",
+            "total_likes_count": 30873,
+            "total_wordage": 1523348,
+            "is_following_user": false
+        }, {
+            "id": 2558050,
+            "slug": "d99a7dfae9e4",
+            "nickname": "阿栈",
+            "avatar_source": "http://upload.jianshu.io/users/upload_avatars/2558050/7761b285-2805-4534-9870-ba7dcc7538ec.jpg",
+            "total_likes_count": 1145,
+            "total_wordage": 455691,
+            "is_following_user": false
+        }, {
+            "id": 3136195,
+            "slug": "6810a6332de9",
+            "nickname": "梅拾璎",
+            "avatar_source": "http://upload.jianshu.io/users/upload_avatars/3136195/484e32c3504a.jpg",
+            "total_likes_count": 23231,
+            "total_wordage": 262498,
+            "is_following_user": false
+        }]
+    }
+}
